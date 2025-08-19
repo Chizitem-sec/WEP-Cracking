@@ -1,4 +1,4 @@
-# WEP-Cracking
+# WPA & WPA2-Cracking
 
 ## Objective
 [Brief Objective - Remove this afterwards]
